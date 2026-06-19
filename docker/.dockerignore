@@ -1,0 +1,5 @@
+QBotEnv/
+.env
+QBot.log
+__pycache__/
+.git/
