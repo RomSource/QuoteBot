@@ -6,4 +6,4 @@ services:
     env_file:
       - .env
     volumes:
-      - ./data:/app/data   # optional: persist generated images or other state
+      - ./data:/app/data   
