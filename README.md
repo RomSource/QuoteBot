@@ -1,0 +1,1 @@
+This is a discord bot script that detects a message reply containing the keyword "$quotets" and creates an image containing the specified message as well as the message author's name, avatar and message timestamp
